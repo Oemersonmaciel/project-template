@@ -1,17 +1,58 @@
-# Welcome to MkDocs
+# Nome do projeto
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introdução
 
-## Commands
+<span style="color:red">**Adicione um texto**</span>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Dados do projeto
 
-## Project layout
+<span style="color:red">**Adicione um texto**</span>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Levantamento inicial
+
+!!! info "Tipo do projeto"
+    - [ ] Análise exploratória
+    - [ ] Modelo preditivo
+    - [ ] Modelo de classificação
+    - [ ] Modelo de agrupamento
+    - [ ] Detecção de anomalias
+
+### Nível de acesso
+
+!!! warning "Confidencialidade"
+    - [ ] Público
+    - [ ] Interno (toda a organização)
+    - [ ] Restrito (apenas a área requisitante)
+
+### Objetivos de negócio
+
+!!! quote ""
+    <span style="color:red">**Adicione um texto**</span>
+
+## Sobre o projeto
+
+### Histórico do documento
+
+| Data       | Versão | Descrição                   | Autor         |
+| :--------- | :----- | :-------------------------- | :------------ |
+| 00/00/0000 | 1.0    | Versão inicial do documento | Nome do autor |
+
+### Dados do solicitante
+
+``` mermaid
+flowchart TD
+    id1[Área de negócio] --o id2[Setor requisitante]
+```
+
+| Nome                      | Cargo / Função | E-mail            |
+| :------------------------ | :------------- | :---------------- |
+| Especialista de negócio 1 | Função 1       | email@exemplo.com |
+| Especialista de negócio 2 | Função 2       | email@exemplo.com |
+
+### Dados da equipe técnica
+
+| Nome               | Cargo / Função        | E-mail            |
+| :----------------- | :-------------------- | :---------------- |
+| Membro da equipe 1 | Analista de Negócios  | email@exemplo.com |
+| Membro da equipe 2 | Engenheiro de Dados   | email@exemplo.com |
+| Membro da equipe 3 | Cientista de Dados    | email@exemplo.com |

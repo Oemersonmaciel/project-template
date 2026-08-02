@@ -176,3 +176,12 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+
+### Ferramentas do projeto ###
+# uv
+#   O uv.lock DEVE ser versionado para garantir a reprodutibilidade do ambiente.
+#   https://docs.astral.sh/uv/concepts/projects/sync/
+.uv-cache/
+
+# ruff
+.ruff_cache/
